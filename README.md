@@ -1,105 +1,218 @@
-# 👋 Welcome to My GitHub
+# 🎮 KOCIO // PLAYER PROFILE
 
-## Hi, I'm Oskar Finneran
+<p align="center">
 
-An esports professional, content creator, and aspiring game designer dedicated to growing the North American esports ecosystem. My mission is to bridge the gap between players, organizations, and opportunities by combining competitive experience, business development, and technology.
+### 🕹️ Game Designer • Esports Player • Coach • Developer • Creator
 
----
+**Building Communities. Leveling Up Players. Creating the Future of Esports.**
 
-## 🎮 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/oskar-finneran/)
+[![Twitch](https://img.shields.io/badge/Twitch-Live-9146FF?style=for-the-badge\&logo=twitch)](https://www.twitch.tv/kociottv)
+[![TikTok](https://img.shields.io/badge/TikTok-Follow-000000?style=for-the-badge\&logo=tiktok)](https://www.tiktok.com/@kociokfik)
 
-- 🏆 Competitive Honor of Kings player and coach
-- 🌎 Passionate about expanding North American esports
-- 🎥 North America Content Creator
-- 💼 Founder & CEO of **Mobile Gaming Experience (MGX)**
-- 🎓 Graduate of Miami Dade College's MAGIC Program (Game Development & Design)
-- 💡 Interested in esports management, game design, business development, AI, and community building
+</p>
 
 ---
 
-## 🚀 What You'll Find Here
+## 🧬 PLAYER PROFILE
 
-This repository serves as my professional landing page and portfolio, showcasing:
+> **Hi, I'm Oskar — better known as Kocio.**
 
-- Esports projects
-- Community initiatives
-- Website development
-- Game development projects
-- UI/UX concepts
-- Content creation
-- Professional achievements
-- Open-source work
+I'm a **Game Designer, Esports Player/Coach, Developer, and Content Creator** passionate about combining gaming, technology, and community.
 
----
+My goal is to create meaningful experiences for players — whether that's through **game development, esports competition, analytics, education, or technology.**
 
-## 🏅 Esports Highlights
-
-- 🎮 Competitive Honor of Kings player
-- 🎯 Honor of Kings coach specializing in macro strategy, drafting, and player development
-- 🌍 North America esports advocate
-- 🤝 Built connections with industry professionals and organizations worldwide
-- 📈 Focused on growing grassroots and professional esports opportunities
+```text
+╔══════════════════════════════════════════════╗
+║              🎮 KOCIO // PROFILE             ║
+╠══════════════════════════════════════════════╣
+║ CLASS        → Game Designer                 ║
+║ ROLE         → Player • Coach • Creator      ║
+║ MAIN TITLE   → Honor of Kings                ║
+║ SPECIALTY    → Strategy • Development        ║
+║ ALIGNMENT    → Gaming • Esports • Technology ║
+║ CURRENT RANK → Building the Future           ║
+╚══════════════════════════════════════════════╝
+```
 
 ---
 
-## 💼 Professional Interests
+# 🏆 ACHIEVEMENTS UNLOCKED
 
-- Esports Operations
-- Esports Business Development
-- Tournament Operations
-- Community Management
-- Marketing & Brand Partnerships
-- Game Design
-- Product Development
-- Artificial Intelligence
-- Data Analytics
-- Software Development
+| 🏅 Achievement               | Status                             |
+| ---------------------------- | ---------------------------------- |
+| 🏆 MCL Champion              | **3× Champion**                    |
+| 🏆 Honor of Kings Tournament | **2× Champion**                    |
+| 🎮 Honor of Kings            | **Player / Coach / Creator**       |
+| 🌎 North American Esports    | **Content Creation & Competition** |
+| 🎓 Game Development & Design | **Graduate**                       |
+| 🚀 MGX                       | **Founder / CEO**                  |
 
 ---
 
-## 🛠 Tech Stack
+# ⚔️ ESPORTS CAREER
 
-- Python
-- C#
-- C++
-- HTML
-- CSS
-- JavaScript
-- Swift
-- Unity
-- Git
-- GitHub
-- Visual Studio
-- Figma
+### 🟣 Honor of Kings
 
----
+**Player • Coach • Content Creator**
 
-## 🌐 Connect With Me
+My competitive experience focuses on both the player and coaching side of esports.
 
-💼 LinkedIn  
-https://www.linkedin.com/in/oskar-finneran/
+**Competitive Specialties**
 
-🎮 Twitch  
-https://www.twitch.tv/kociottv
+* 🧠 Macro strategy & decision-making
+* 🎯 Hero drafting & counter-picks
+* 📊 Gameplay and VOD analysis
+* 🗣️ Team communication
+* 🏹 Objective control
+* 🤝 Team coordination
+* 📈 Player development
+* 🏆 Tournament preparation
 
-📱 TikTok  
-https://www.tiktok.com/@kociokfik
+My long-term goal is to help build a stronger pathway for aspiring players, coaches, creators, and esports professionals.
 
 ---
 
-## 📫 Let's Connect
+# 🚀 CURRENT MISSIONS
 
-I'm always interested in collaborating on:
+```text
+🟢 MAIN QUEST
+Build technology and experiences that empower gamers.
 
-- Esports startups
-- Game development
-- Tournament platforms
-- AI for gaming
-- Community initiatives
-- Business partnerships
+🟢 SIDE QUEST
+Create innovative game development projects.
 
-If you'd like to work together or simply connect, feel free to reach out through LinkedIn.
+🟢 RANKED GRIND
+Expand my Python, cybersecurity, and software development skills.
+
+🟢 ESPORTS QUEST
+Continue competing, coaching, creating content, and growing within esports.
+
+🟢 BOSS FIGHT
+Help build a stronger and more sustainable esports ecosystem.
+```
 
 ---
 
-> *"Building the future of North American esports—one project, one player, and one opportunity at a time."*
+# 💻 DEVELOPER LOADOUT
+
+### ⚔️ Core Weapons
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square\&logo=c%2B%2B\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square\&logo=csharp\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square\&logo=swift\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+
+### 🕹️ Game Development
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square\&logo=unity\&logoColor=white)
+![Game Design](https://img.shields.io/badge/Game%20Design-8A2BE2?style=flat-square)
+![Gameplay Programming](https://img.shields.io/badge/Gameplay%20Programming-FF4655?style=flat-square)
+
+### 🧰 Development Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+
+### 🎨 Creative Tools
+
+`Aseprite` `Photoshop` `Pixel Art` `UI Design`
+
+---
+
+# 🕹️ FEATURED PROJECTS
+
+### 🧠 Honor of Kings Analytics
+
+**Esports Performance Analytics**
+
+A project focused on analyzing player performance, KDA statistics, hero performance, and competitive data.
+
+**Tech:** `Python` `Data Analytics` `Esports`
+
+---
+
+### 🍱 KOOMP Esports Nutrition
+
+**Gamified Nutrition for Gamers**
+
+An esports-focused nutrition application designed to combine personalized nutrition, inventory tracking, gamification, and sustainability.
+
+**Tech:** `App Development` `Gamification` `Esports`
+
+---
+
+### 🎮 Unity Game Development
+
+A collection of game development projects exploring gameplay mechanics, systems programming, and interactive experiences.
+
+**Tech:** `Unity` `C#` `Game Design`
+
+---
+
+### 🛡️ Cybersecurity Detection
+
+Security-focused development projects exploring threat detection and network security concepts.
+
+**Tech:** `Python` `Cybersecurity` `Log Analysis`
+
+---
+
+# 🌎 ESPORTS × TECHNOLOGY
+
+I believe the future of esports goes beyond competition.
+
+The next generation of esports will combine:
+
+```text
+        🎮 GAMING
+           +
+        🧠 EDUCATION
+           +
+        💻 TECHNOLOGY
+           +
+        📊 DATA
+           +
+        🤝 COMMUNITY
+           =
+      🚀 THE FUTURE OF ESPORTS
+```
+
+My vision is to create sustainable pathways for aspiring gamers and esports professionals through **education, competition, technology, partnerships, and community.**
+
+---
+
+# 📡 CONNECT WITH ME
+
+<p align="center">
+
+**Let's build something amazing.**
+
+🎮 Gaming
+💻 Technology
+🏆 Esports
+🎨 Game Design
+🚀 Innovation
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Oskar%20Finneran-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/oskar-finneran/)
+
+[![Twitch](https://img.shields.io/badge/Twitch-KocioTV-9146FF?style=for-the-badge\&logo=twitch)](https://www.twitch.tv/kociottv)
+
+[![TikTok](https://img.shields.io/badge/TikTok-Kociokfik-000000?style=for-the-badge\&logo=tiktok)](https://www.tiktok.com/@kociokfik)
+
+</p>
+
+---
+
+<p align="center">
+
+### 🎮 `GAME ON. BUILD ON.`
+
+*Building Communities. Leveling Up Players. Creating the Future of Esports.*
+
+</p>
