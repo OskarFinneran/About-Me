@@ -1,3 +1,6 @@
+<img width="1983" height="793" alt="8410abb8-789a-41e6-9504-365927c3fbed" src="https://github.com/user-attachments/assets/df2cc3cd-d699-4f60-850a-b5e0650de61f" />
+
+
 # 🎮 KOCIO // PLAYER PROFILE
 
 <p align="center">
